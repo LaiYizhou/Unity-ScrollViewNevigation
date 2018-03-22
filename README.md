@@ -1,5 +1,6 @@
 # Unity-ScrollViewNevigation
-###1. 介绍
+
+### 1. 简介
 
 在Unity3D中，使用ScrollView时，
 
@@ -11,7 +12,7 @@
 
 
 
-### 2. 说明
+### 2. 使用说明
 
 - 请尽量保证ScrollView组件**层级及命名**如下：
 
